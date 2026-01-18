@@ -22,7 +22,7 @@ __[Google Scholar](https://scholar.google.com/citations?user=VSkAW84AAAAJ&hl=en)
   + Study of protein conformational changes and protein-ligand binding, including free-energy calculations.
 
 ### Current Research:
-  + Modelling system of protein isolation and purification, including nanodiscs, micelles and polymer disks.
+  + Modelling systems of protein isolation and purification, including nanodiscs, micelles and polymer disks (such as SMALPed disks).
   + Studying the function of _E.coli_ PBP3 and the mechanism of insertion mutants.
   + Modelling protein-ligand interactions on bacterial transporters.
     
