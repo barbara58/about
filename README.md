@@ -1,4 +1,3 @@
-
 # Bárbara Abreu, PhD
 
 Exploring the secrets of life using computational biology and biophysics.
@@ -14,15 +13,20 @@ __[LinkedIn](https://www.linkedin.com/in/barbarabreu/)__
 
 __[ORCID](https://orcid.org/0000-0002-2861-5782)__
 
-__[Google Scholar]()__
+__[Google Scholar](https://scholar.google.com/citations?user=VSkAW84AAAAJ&hl=en)__
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Research Interests:
-  + Membrane proteins, 
+  + Molecular modelling and simulation of membrane proteins (and every other protein!).
+  + Study of protein conformational changes and protein-ligand binding, including free-energy calculations.
 
 ### Current Research:
-
+  + Modelling system of protein isolation and purification, including nanodiscs, micelles and polymer disks.
+  + Studying the function of _E.coli_ PBP3 and the mechanism of insertion mutants.
+  + Modelling protein-ligand interactions on bacterial transporters.
+    
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Publications:
   - Zhang, Z.; Abreu, B.; Brothwood, J.L.; Sims, M.J.; Lyons, J.F; Munck,J.M.; Hindley C.J. The identification of functional regions of MEK1 using CRISPR tiling screens, Nature Communications Biology, 2025,8,656, https://doi.org/10.1038/s42003-025-07966-4
